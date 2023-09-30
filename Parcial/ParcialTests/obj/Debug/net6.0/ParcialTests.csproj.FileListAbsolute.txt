@@ -1,0 +1,6 @@
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\obj\Debug\net6.0\ParcialTests.csproj.AssemblyReference.cache
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\obj\Debug\net6.0\ParcialTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\obj\Debug\net6.0\ParcialTests.AssemblyInfoInputs.cache
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\obj\Debug\net6.0\ParcialTests.AssemblyInfo.cs
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\ParcialTests\obj\Debug\net6.0\ParcialTests.csproj.CoreCompileInputs.cache

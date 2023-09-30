@@ -1,0 +1,4 @@
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\Prueba\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+D:\Sofia\Documents\GitHub\Parcial2\Prueba\Prueba\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
