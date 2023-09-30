@@ -1,0 +1,4 @@
+D:\Sofia\Documents\GitHub\Parcial2\Parcial\Prueba\obj\Debug\net6.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofia\Documents\GitHub\Parcial2\Parcial\Prueba\obj\Debug\net6.0\Parcial.AssemblyInfoInputs.cache
+D:\Sofia\Documents\GitHub\Parcial2\Parcial\Prueba\obj\Debug\net6.0\Parcial.AssemblyInfo.cs
+D:\Sofia\Documents\GitHub\Parcial2\Parcial\Prueba\obj\Debug\net6.0\Parcial.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\ParcialTests.csproj": {}
+    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\ParcialTests.csproj": {}
   },
   "projects": {
-    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\ParcialTests.csproj": {
+    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\ParcialTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\ParcialTests.csproj",
+        "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\ParcialTests.csproj",
         "projectName": "ParcialTests",
-        "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\ParcialTests.csproj",
+        "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\ParcialTests.csproj",
         "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\obj\\",
+        "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj": {
-                "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj"
+              "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj": {
+                "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj": {
+    "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj",
+        "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj",
         "projectName": "Parcial",
-        "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj",
+        "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj",
         "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\obj\\",
+        "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",

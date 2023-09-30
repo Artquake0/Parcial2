@@ -52,5 +52,29 @@ public class Bike
         double grip = 1.0 + FrontWheel.Grip + BackWheel.Grip;
         return (speed, acceleration, handling, grip);
     }
+    public void AddOrReplaceFrontWheel(FrontWheel frontWheel)
+    {
+        FrontWheel = frontWheel;
+    }
 
+    public void AddOrReplaceBackWheel(BackWheel backWheel)
+    {
+        BackWheel = backWheel;
+    }
+
+    public void AddOrReplaceEngine(Engine engine)
+    {
+        Engine = engine;
+    }
+
+    public void AddOrReplaceMuffler(Muffler muffler)
+    {
+        Muffler = muffler;
+    }
+
+    public bool ReplaceChassis(Chassis chassis)
+    {
+   
+        return false;
+    }
 }

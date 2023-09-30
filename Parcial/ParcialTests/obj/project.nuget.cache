@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NoZ5D5uvNbGTTginnvDqqy5/b0RsH6B85m1alpZgVNuaDgYFK9S5wmdWMY3PpHrZCQdXEeWqi8ZCHfsoJc/1pA==",
+  "dgSpecHash": "pFzuAvC+YxfU4KwKXQY0aKBcGWvvUl3zSfMAWTb0+80lPILU8UbYhZj2o2sA+pxYjsZ6nvES94po6Yzo0dhqbw==",
   "success": true,
-  "projectFilePath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\ParcialTests\\ParcialTests.csproj",
+  "projectFilePath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\ParcialTests\\ParcialTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sofia\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Sofia\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

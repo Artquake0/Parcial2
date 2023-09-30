@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj",
+      "projectUniqueName": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj",
       "projectName": "Parcial",
-      "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\Parcial.csproj",
+      "projectPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\Parcial.csproj",
       "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
-      "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Prueba\\Prueba\\obj\\",
+      "outputPath": "D:\\Sofia\\Documents\\GitHub\\Parcial2\\Parcial\\Prueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
