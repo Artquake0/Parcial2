@@ -77,4 +77,12 @@ public class Bike
    
         return false;
     }
+
+    public bool AddOrReplaceChassis(Chassis chassis)
+    {
+
+        return false;
+    }
+
+    
 }

@@ -74,7 +74,6 @@ public class BikeTests
     [Test]
     public void PartsModifyParameters()
     {
-        // Crear una moto sin partes, probar el valor inicial de los parámetros
         var (speed, acceleration, handling, grip) = _bike.TotalParameters();
         Assert.AreEqual(0.0, speed);
         Assert.AreEqual(0.0, acceleration);
@@ -114,5 +113,42 @@ public class BikeTests
         Assert.AreEqual(7.5, acceleration);
         Assert.AreEqual(7.0, handling);
         Assert.AreEqual(4.0, grip);
+
+
+    }
+
+    [Test]
+    public void MaxParameterValueOnConstructor()
+    {
+ 
+        var engine = new Engine(4.0, 3.0, 2.0);
+        Assert.AreEqual(4.0, engine.Speed);
+        Assert.AreEqual(3.0, engine.Acceleration);
+        Assert.AreEqual(2.0, engine.Handling);
+        Assert.AreEqual(0.0, engine.Grip);
+
+        var frontWheel = new FrontWheel { Speed = 2.0, Acceleration = 2.0, Handling = 2.0, Grip = 2.0 };
+        Assert.AreEqual(2.0, frontWheel.Speed);
+        Assert.AreEqual(2.0, frontWheel.Acceleration);
+        Assert.AreEqual(2.0, frontWheel.Handling);
+        Assert.AreEqual(2.0, frontWheel.Grip);
+
+        var backWheel = new BackWheel { Speed = 1.0, Acceleration = 1.0, Handling = 1.0, Grip = 1.0 };
+        Assert.AreEqual(1.0, backWheel.Speed);
+        Assert.AreEqual(1.0, backWheel.Acceleration);
+        Assert.AreEqual(1.0, backWheel.Handling);
+        Assert.AreEqual(1.0, backWheel.Grip);
+
+        var muffler = new Muffler(1.5);
+        Assert.AreEqual(0.0, muffler.Speed);
+        Assert.AreEqual(1.5, muffler.Acceleration);
+        Assert.AreEqual(0.0, muffler.Handling);
+        Assert.AreEqual(0.0, muffler.Grip);
+
+        var chassis = new Chassis();
+        Assert.AreEqual(0.0, chassis.Speed);
+        Assert.AreEqual(0.0, chassis.Acceleration);
+        Assert.AreEqual(0.0, chassis.Handling);
+        Assert.AreEqual(0.0, chassis.Grip);
     }
 }
